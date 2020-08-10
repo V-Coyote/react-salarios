@@ -2,7 +2,7 @@
 
 This project was bootstrapped with Create React App.
 
-> React JS Web Application using React Hooks and fetching some data to show your salary in Brazil after tax.
+> React JS Web Application using React Hooks and make some calculation to show your salary in Brazil after tax.
 
 **The Calculation was based in this site:** https://www.todacarreira.com/calculo-salario-liquido/
 
