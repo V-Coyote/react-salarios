@@ -1,7 +1,5 @@
 import React from 'react';
 
-// import { Container } from './styles';
-
 function Header({ salary, onChangeSalary }) {
   return (
     <>
@@ -13,6 +11,7 @@ function Header({ salary, onChangeSalary }) {
           className="validate"
           min="1045.00"
           step="100"
+          autoFocus
         />
         <label className="active" htmlFor="salario">
           Salário
