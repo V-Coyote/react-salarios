@@ -6,14 +6,16 @@ This project was bootstrapped with Create React App.
 
 **The Calculation was based in this site:** https://www.todacarreira.com/calculo-salario-liquido/
 
-**Site Application Web:** https://react-salarios.web.app/
+**Single Page Application:** https://react-salarios.web.app/
+
+![app react-countries](https://github.com/V-Coyote/react-salarios/blob/master/public/react-salario.png?raw=true)
 
 ## How to start in your machine
 
 1. npm install
 2. npm start
 
-  or
+or
 
 1. yarn
 2. yarn start
