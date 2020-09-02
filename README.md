@@ -8,7 +8,7 @@ React JS Web Application using React Hooks and make some calculation to show you
 
 **Single Page Application:** https://react-salarios.web.app/
 
-![app react-countries](https://github.com/V-Coyote/react-salarios/blob/master/public/react-salario.png?raw=true)
+![app react-countries](https://github.com/Vinicius-A-R/react-salarios/blob/master/public/react-salario.png?raw=true)
 
 ## How to start in your machine
 
